@@ -1,0 +1,63 @@
+	Rk	Pk	Tm	Player	College	Yrs	G	MP	PTS	TRB	AST	FG%	3P%	FT%	MP	PTS	TRB	AST	WS	WS/48	BPM	VORP
+0	1	1	CLE	Andrew Wiggins	University of Kansas	4	327	11841	6447	1351	683	.447	.330	.741	36.2	19.7	4.1	2.1	12.4	.050	-2.4	-1.2
+1	2	2	MIL	Jabari Parker	Duke University	4	183	5617	2794	998	373	.490	.352	.747	30.7	15.3	5.5	2.0	10.2	.087	-1.4	0.9
+2	3	3	PHI	Joel Embiid	University of Kansas	2	94	2698	2072	933	265	.478	.327	.774	28.7	22.0	9.9	2.8	8.1	.144	2.8	3.2
+3	4	4	ORL	Aaron Gordon	University of Arizona	4	263	6867	3003	1538	447	.451	.309	.698	26.1	11.4	5.8	1.7	13.0	.091	-0.1	3.3
+4	5	5	UTA	Dante Exum		3	162	3280	919	289	352	.395	.306	.757	20.2	5.7	1.8	2.2	1.7	.025	-3.1	-0.9
+5	6	6	BOS	Marcus Smart	Oklahoma State University	4	261	7488	2466	971	1016	.360	.293	.756	28.7	9.4	3.7	3.9	10.9	.070	0.2	4.3
+6	7	7	LAL	Julius Randle	University of Kentucky	4	238	6622	3219	2119	618	.493	.257	.717	27.8	13.5	8.9	2.6	11.7	.085	-1.0	1.7
+7	8	8	SAC	Nik Stauskas	University of Michigan	4	267	5647	1873	561	432	.386	.349	.801	21.1	7.0	2.1	1.6	2.7	.023	-3.2	-1.8
+8	9	9	CHH	Noah Vonleh	Indiana University	4	231	3573	957	1089	99	.444	.297	.664	15.5	4.1	4.7	0.4	5.1	.068	-3.9	-1.7
+9	10	10	PHI	Elfrid Payton	University of Louisiana at Lafayette	4	300	8854	3352	1271	1923	.457	.298	.619	29.5	11.2	4.2	6.4	11.8	.064	-0.3	3.9
+10	11	11	DEN	Doug McDermott	Creighton University	4	264	5458	2095	617	202	.452	.403	.822	20.7	7.9	2.3	0.8	7.7	.068	-3.3	-1.7
+11	12	12	ORL	Dario Saric		2	159	4439	2181	1033	384	.431	.355	.820	27.9	13.7	6.5	2.4	7.6	.082	-0.3	1.9
+12	13	13	MIN	Zach LaVine	University of California, Los Angeles	4	230	6601	3218	696	738	.437	.373	.820	28.7	14.0	3.0	3.2	5.2	.038	-2.1	-0.2
+13	14	14	PHO	T.J. Warren	North Carolina State University	4	218	5874	2982	904	229	.500	.283	.754	26.9	13.7	4.1	1.1	10.9	.089	-1.2	1.2
+14	15	15	ATL	Adreian Payne	Michigan State University	4	107	1403	429	315	66	.406	.254	.680	13.1	4.0	2.9	0.6	-0.6	-.019	-5.5	-1.2
+15	16	16	CHI	Jusuf Nurkic		4	238	5129	2483	1732	356	.485	.000	.612	21.6	10.4	7.3	1.5	8.6	.081	-0.2	2.3
+16	17	17	BOS	James Young	University of Kentucky	4	95	812	219	96	28	.367	.277	.563	8.5	2.3	1.0	0.3	0.8	.046	-4.0	-0.4
+17	18	18	PHO	Tyler Ennis	Syracuse University	4	186	2336	779	250	359	.419	.317	.768	12.6	4.2	1.3	1.9	1.3	.026	-4.6	-1.5
+18	19	19	CHI	Gary Harris	Michigan State University	4	255	7244	3141	638	534	.469	.371	.803	28.4	12.3	2.5	2.1	13.4	.089	0.3	4.2
+19	20	20	TOR	Bruno Caboclo		4	35	213	53	36	9	.282	.242	.833	6.1	1.5	1.0	0.3	-0.4	-.080	-6.7	-0.3
+20	21	21	OKC	Mitch McGary	University of Michigan	2	52	557	227	183	17	.527	.000	.580	10.7	4.4	3.5	0.3	1.3	.108	-3.1	-0.2
+21	22	22	MEM	Jordan Adams	University of California, Los Angeles	2	32	263	101	30	19	.402	.385	.607	8.2	3.2	0.9	0.6	0.4	.070	-0.5	0.1
+22	23	23	UTA	Rodney Hood	Duke University	4	248	6814	3212	751	487	.419	.369	.828	27.5	13.0	3.0	2.0	13.4	.095	-0.6	2.3
+23	24	24	CHH	Shabazz Napier	University of Connecticut	4	233	3659	1326	399	444	.395	.363	.802	15.7	5.7	1.7	1.9	4.4	.058	-1.8	0.2
+24	25	25	HOU	Clint Capela		4	228	5146	2418	1858	180	.629	.000	.482	22.6	10.6	8.1	0.8	20.6	.193	1.4	4.5
+25	26	26	MIA	P.J. Hairston	University of North Carolina	2	111	2000	664	266	59	.343	.295	.810	18.0	6.0	2.4	0.5	0.9	.021	-3.9	-1.0
+26	27	27	PHO	Bogdan Bogdanovic		1	78	2175	917	223	258	.446	.392	.840	27.9	11.8	2.9	3.3	2.9	.064	-1.0	0.6
+27	28	28	LAC	C.J. Wilcox	University of Washington	3	66	376	132	31	30	.370	.333	.813	5.7	2.0	0.5	0.5	0.1	.007	-5.2	-0.3
+28	29	29	OKC	Josh Huestis	Stanford University	3	76	1068	187	180	23	.346	.312	.240	14.1	2.5	2.4	0.3	0.7	.030	-3.8	-0.5
+29	30	30	SAS	Kyle Anderson	University of California, Los Angeles	4	257	4601	1255	920	444	.478	.338	.733	17.9	4.9	3.6	1.7	12.7	.132	2.4	5.1
+30																						
+31	Rk																					
+32	31	31	MIL	Damien Inglis		1	20	156	36	31	10	.351	.231	.875	7.8	1.8	1.6	0.5	-0.1	-.024	-6.4	-0.2
+33	32	32	PHI	K.J. McDaniels	Clemson University	3	148	2092	782	324	95	.412	.290	.776	14.1	5.3	2.2	0.6	1.3	.030	-3.3	-0.7
+34	33	33	CLE	Joe Harris	University of Virginia	4	186	3621	1413	451	210	.459	.400	.774	19.5	7.6	2.4	1.1	4.9	.065	-1.5	0.5
+35	34	34	NYK	Cleanthony Early	Wichita State University	2	56	801	241	123	42	.346	.263	.750	14.3	4.3	2.2	0.8	-0.6	-.039	-5.7	-0.8
+36	35	35	UTA	Jarnell Stokes	University of Tennessee	3	28	151	67	40	7	.581		.531	5.4	2.4	1.4	0.3	0.6	.202	1.0	0.1
+37	36	36	MIL	Johnny O'Bryant III	Louisiana State University	4	147	1684	509	352	69	.402	.360	.663	11.5	3.5	2.4	0.5	0.2	.006	-6.4	-1.9
+38	37	37	TOR	DeAndre Daniels	University of Connecticut																	
+39	38	38	DET	Spencer Dinwiddie	University of Colorado	4	185	4254	1642	488	835	.387	.315	.798	23.0	8.9	2.6	4.5	8.7	.098	-0.8	1.3
+40	39	39	PHI	Jerami Grant	Syracuse University	4	303	6621	2279	1083	317	.444	.301	.641	21.9	7.5	3.6	1.0	10.9	.079	-1.7	0.5
+41	40	40	MIN	Glenn Robinson III	University of Michigan	4	172	2534	758	390	101	.445	.381	.707	14.7	4.4	2.3	0.6	4.0	.077	-2.2	-0.1
+42	41	41	DEN	Nikola Jokic		3	228	6214	3402	2081	1006	.530	.366	.832	27.3	14.9	9.1	4.4	27.1	.209	6.9	13.9
+43	42	42	HOU	Nick Johnson	University of Arizona	1	28	262	74	39	11	.347	.238	.680	9.4	2.6	1.4	0.4	-0.1	-.020	-7.3	-0.3
+44	43	43	ATL	Walter Tavares		2	13	101	33	32	4	.625		.273	7.8	2.5	2.5	0.3	0.2	.118	-0.6	0.0
+45	44	44	MIN	Markel Brown	Oklahoma State University	3	113	1794	584	234	132	.380	.295	.781	15.9	5.2	2.1	1.2	1.1	.029	-2.8	-0.4
+46	45	45	CHH	Dwight Powell	Stanford University	4	254	4233	1676	1073	193	.535	.292	.739	16.7	6.6	4.2	0.8	14.9	.170	1.4	3.6
+47	46	46	WAS	Jordan Clarkson	University of Missouri	4	301	8313	4257	967	832	.443	.339	.807	27.6	14.1	3.2	2.8	8.7	.050	-1.7	0.6
+48	47	47	PHI	Russ Smith	University of Louisville	2	27	131	53	15	19	.319	.188	.769	4.9	2.0	0.6	0.7	-0.2	-.068	-6.4	-0.1
+49	48	48	MIL	Lamar Patterson	University of Pittsburgh	2	40	435	93	57	45	.326	.236	.720	10.9	2.3	1.4	1.1	0.1	.006	-5.5	-0.4
+50	49	49	CHI	Cameron Bairstow	University of New Mexico	2	36	167	44	36	7	.296	.200	.846	4.6	1.2	1.0	0.2	-0.1	-.021	-7.7	-0.2
+51	50	50	PHO	Alec Brown	University of Wisconsin-Green Bay																	
+52	51	51	NYK	Thanasis Antetokounmpo		1	2	6	6	1	0	.750	.000		3.0	3.0	0.5	0.0	0.0	.291	-4.1	0.0
+53	52	52	PHI	Vasilije Micic																		
+54	53	53	MIN	Alessandro Gentile																		
+55	54	54	PHI	Nemanja Dangubic																		
+56	55	55	MIA	Semaj Christon	Xavier University	1	64	973	183	87	130	.345	.190	.548	15.2	2.9	1.4	2.0	0.1	.006	-6.3	-1.1
+57	56	56	DEN	Roy Devyn Marble	University of Iowa	2	44	457	97	69	29	.304	.222	.375	10.4	2.2	1.6	0.7	-0.3	-.028	-5.0	-0.3
+58	57	57	IND	Louis Labeyrie																		
+59	58	58	SAS	Jordan McRae	University of Tennessee	2	59	579	260	61	44	.404	.384	.774	9.8	4.4	1.0	0.7	0.5	.043	-5.7	-0.5
+60	59	59	TOR	Xavier Thames	San Diego State University																	
+61	60	60	SAS	Cory Jefferson	Baylor University	2	58	581	205	161	16	.444	.125	.583	10.0	3.5	2.8	0.3	0.9	.071	-4.6	-0.4
